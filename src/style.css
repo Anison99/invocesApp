@@ -1,0 +1,38 @@
+p{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:15px;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+table{
+    display:inline-block;
+    border: 1px solid#ffffff;
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid #999;
+    padding: 5px;
+}
+b{
+    text-aligin: ccenter;
+}
+legend {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 100;
+}
+fieldset {
+    width: 1000px;
+    height: 1800px;
+}
+ul > li {
+    display: inline;
+}
+.tab{
+    tab-size: 10;
+
+}
